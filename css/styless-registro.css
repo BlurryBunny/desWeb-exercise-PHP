@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.tituloSistema{
+	width: 100%;
+	text-align: center;
+	padding: 30px;
+	background-color: #CCCFFF;
+}
+
+
+.err{
+	color: red;
+	background-color: #FFFFCC;
+	text-align: center;
+	padding: 20px;
+}
+
+.bienvenida{
+	text-align: center;
+}
+
+.opciones-menu{
+	width: 100%; 
+	background-color: antiquewhite;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: .7em;
+	padding: 10px;
+}
